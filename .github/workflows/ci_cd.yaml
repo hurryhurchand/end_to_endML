@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
-      - run: python /src/model/train_model.py
+      - run: python /src/models/train_model.py
