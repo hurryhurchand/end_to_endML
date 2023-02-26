@@ -1,0 +1,4 @@
+[core]
+    remote = end_to_endml
+['remote "end_to_endml"']
+    url = ../git@github.com:hurryhurchand/end_to_endML.git

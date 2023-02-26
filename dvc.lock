@@ -1,0 +1,4 @@
+schema: '2.0'
+stages:
+  run_main:
+    cmd: python src/models/train_model.py
