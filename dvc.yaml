@@ -1,0 +1,3 @@
+stages:
+  run_main:
+    cmd: python src/models/train.py
